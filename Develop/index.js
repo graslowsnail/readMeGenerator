@@ -28,20 +28,6 @@ function promptUser(){
             message: "What is this project usage for?"
         },
         {
-            type: "checkbox",
-            name: "license",
-            message: "Chose the appropriate license for this project: ",
-            choices: [
-                "Apache",
-                "MIT",
-                "GNU",
-                "Academic",
-                "Mozilla",
-                "Open",
-                "ISC"
-            ]
-        },
-        {
             type: "input",
             name: "contributing",
             message: "Who are the contributors of this projects?"
@@ -50,11 +36,6 @@ function promptUser(){
             type: "input",
             name: "tests",
             message: "Is there a test included?"
-        },
-        {
-            type: "input",
-            name: "questions",
-            message: "What do I do if I have an issue? "
         },
         {
             type: "input",

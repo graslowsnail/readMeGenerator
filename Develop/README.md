@@ -3,7 +3,7 @@
 undefined
 undefined
 # Description
-A simple to use program to make a high level readme 
+a program that generates a read me file
 # Table of Contents 
 * [Installation](#-Installation)
 * [Usage](#-Usage)
@@ -13,9 +13,9 @@ A simple to use program to make a high level readme
 * [Questions](#-Contact-Information)
     
 # Installation
-clone the repo to start using
+clone repo
 # Usage
-creating a readme file fast
+making a readme file
 # License 
 MIT
 * As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
